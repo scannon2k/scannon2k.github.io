@@ -1,14 +1,20 @@
 ---
 layout: page
-title: Analysis of Economic Data
+title: Portfolio
+subtitle: Data Analysis and Other Side Projects
 ---
 
 ##  Projects
-<a> 
+
+R PROJECT
+
+PYTHON PROJECT
+
+## Contact Information
+
+<a>
 <img src="bear.jpg" alt="jpg" width="250"/>
 </a>
-
-## Contact Information 
 
 Sean Cannon<br/>
 Department of Economics<br/>
