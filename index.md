@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Portfolio
 subtitle: Data Analysis and Other Side Projects
 ---

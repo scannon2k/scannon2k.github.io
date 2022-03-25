@@ -1,5 +1,7 @@
 ---
 title: About
+layout: default
+---
 ---
 
 [My GitHub Page](https://github.com/scannon2k).
