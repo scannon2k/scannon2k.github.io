@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GitHub Portfolio
+title: Portfolio
 ---
 
 ## Contact Information 
