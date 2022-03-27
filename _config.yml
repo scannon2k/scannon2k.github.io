@@ -10,6 +10,4 @@ header_pages:
 
 
 # Build settings
-#theme: minima
-
-theme: jekyll-theme-minimal
+theme: minima
