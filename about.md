@@ -3,20 +3,17 @@ layout: page
 title: About
 ---
 
-This website serves as a demonstration of how the basic capabilities of [GitHub Pages](https://pages.github.com/) can be used to showcase a portfolio of student work in [RStudio](https://www.rstudio.com/) that is hosted on [GitHub](https://github.com/).
+I am a Master's in Applied Economics student at Florida State University. My interests include data analysis as well as general programming projects. You can find a portfolio of my work on the [main page](https://scannon2k.github.io/) and the [projects](https://scannon2k.github.io/projects) page.
 
-### Technologies
+## Contact Information 
 
-The following free-to-use technologies have been utilized to build the sample projects:
-1. [GitHub](https://github.com/)
-2. [GitHub Pages](https://pages.github.com/) (the [minima](https://github.com/jekyll/minima) theme (slightly modified) of [jekyll](https://github.com/jekyll) is used to build [this site](https://github.com/datadogs87/datadogs87.github.io))
-3. [RStudio](https://www.rstudio.com/)
-4. [shinyapps.io](https://www.shinyapps.io/)
+<a> 
+<img src="smc.jpg" alt="smc" width="250"/>
+</a>
 
-### R packages
+Sean Cannon<br/>
+Department of Economics<br/>
+Florida State University <br/>
+Tallahassee, Florida<br/>
 
-The following R packages have been showcased in the sample projects:
-1. [R Markdown](https://rmarkdown.rstudio.com/) (really helpful documentation avaiable [here](https://bookdown.org/yihui/rmarkdown/))
-2. [Shiny](https://shiny.rstudio.com/)
-3. DBI???
-4. tidy?
+[Email:smc18ck@my.fsu.edu](mailto:smc18ck@my.fsu.edu)

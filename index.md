@@ -1,20 +1,21 @@
 ---
 layout: page
-title: Analysis of Economic Data
+title: GitHub Portfolio
 ---
-
-##  Projects
-<a> 
-<img src="pmb2.png" alt="pmb" width="250"/>
-</a>
 
 ## Contact Information 
 
-Paul Beaumont<br/>
+Sean Cannon<br/>
 Department of Economics<br/>
 Florida State University <br/>
-Tallahassee, Florida, 32306 <br/>
+Tallahassee, Florida<br/>
 
-[Email:beaumont@fsu.edu](mailto:beaumont@fsu.edu)
+[Email:smc18ck@my.fsu.edu](mailto:smc18ck@my.fsu.edu)
 
-[Web Page:](https://paulmbeaumont.netlify.app/)
+##  Projects
+
+R PROJECT
+
+R PROJECT
+
+PYTHON PROJECT
