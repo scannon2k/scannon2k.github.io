@@ -1,24 +1,20 @@
 ---
-layout: default
-title: Portfolio
-subtitle: Data Analysis and Other Side Projects
+layout: page
+title: Analysis of Economic Data
 ---
 
 ##  Projects
-
-R PROJECT
-
-PYTHON PROJECT
-
-## Contact Information
-
-<a>
-<img src="bear.jpg" alt="jpg" width="250"/>
+<a> 
+<img src="pmb2.png" alt="pmb" width="250"/>
 </a>
 
-Sean Cannon<br/>
+## Contact Information 
+
+Paul Beaumont<br/>
 Department of Economics<br/>
 Florida State University <br/>
-Tallahassee, Florida<br/>
+Tallahassee, Florida, 32306 <br/>
 
-[Email:smc18ck@my.fsu.edu](mailto:smc18ck@my.fsu.edu)
+[Email:beaumont@fsu.edu](mailto:beaumont@fsu.edu)
+
+[Web Page:](https://paulmbeaumont.netlify.app/)

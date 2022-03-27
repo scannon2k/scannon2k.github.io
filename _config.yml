@@ -1,7 +1,3 @@
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 title: Home
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -11,4 +7,8 @@ show_excerpts: false # set to true to show excerpts on the homepage
 header_pages:
  - projects.md
  - about.md
-theme: jekyll-theme-midnight
+
+# Build settings
+theme: minima
+
+ 
