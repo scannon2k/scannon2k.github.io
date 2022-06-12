@@ -13,9 +13,3 @@ Tallahassee, Florida<br/>
 [Email:smc18ck@my.fsu.edu](mailto:smc18ck@my.fsu.edu)
 
 ##  Projects
-
-R PROJECT
-
-R PROJECT
-
-PYTHON PROJECT
