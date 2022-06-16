@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-Here are examples of research projects generated with R Studio using TidyR and RMarkdown.
+Here are examples of economic research and data science projects using python and R! Python reports are written in Jupyter Notebook and R projects were generated with R Studio using TidyR and RMarkdown.
 
 Project | Language | Description | HTML Output | Rmd Code
 --- | --- | --- | --- | ---
