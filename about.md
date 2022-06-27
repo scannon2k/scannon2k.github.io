@@ -16,4 +16,4 @@ Department of Economics<br/>
 Florida State University <br/>
 Tallahassee, Florida<br/>
 
-[Email:smc18ck@my.fsu.edu](mailto:smc18ck@my.fsu.edu)
+[Email:smc18ck@fsu.edu](mailto:smc18ck@fsu.edu)
